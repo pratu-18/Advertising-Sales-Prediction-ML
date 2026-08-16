@@ -1,0 +1,31 @@
+# Advertising Sales Prediction using Multiple Linear Regression
+
+# Project Dependencies
+
+#
+
+# Python Version: 3.10 or higher
+
+# Development Environment: Visual Studio Code
+
+#
+
+# Install dependencies using:
+
+# pip install -r requirements.txt
+
+# Data Analysis
+
+pandas
+
+# Numerical Computation
+
+numpy
+
+# Data Visualization
+
+matplotlib
+
+# Machine Learning
+
+scikit-learn
